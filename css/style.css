@@ -21,6 +21,10 @@ body {
 /* Write all remaining styles here */
 
 .col-1 {
-  float  
+  float: left;  
+}
+
+.col-2 {
+  float: left;
 }
 
