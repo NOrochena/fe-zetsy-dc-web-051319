@@ -27,5 +27,6 @@ body {
 
 .col-2 {
   float: left;
+  width: 60%;
 }
 
