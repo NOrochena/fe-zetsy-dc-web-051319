@@ -20,15 +20,7 @@ body {
 
 /* Write all remaining styles here */
 
-.col-1 {
-  float: left;
-  width: 20%;
-  background: #ccc;
-}
-
-.col-2 {
-  float: left;
-  width: 60%;
-  background: #f00;
+h1 {
+  font-family: "Libre Baskerville"
 }
 
