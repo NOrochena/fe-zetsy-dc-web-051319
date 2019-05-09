@@ -22,9 +22,11 @@ body {
 
 h1 {
   font-family: "Libre Baskerville";
-  color: #98a39f;
 }
 
+h1, h2 {
+  color: #98a39f;
+}
 img {
   border: 5px solid #98a39f;
 }
